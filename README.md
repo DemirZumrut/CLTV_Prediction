@@ -1,4 +1,4 @@
-# Customer Life Time Value (CLTV) Prediction
+# Customer Lifetime Value (CLTV) Prediction
 
 #### CLTV Prediction with BG-NBD and Gamma-Gamma
 
