@@ -2,6 +2,13 @@
 
 #### CLTV Prediction with BG-NBD and Gamma-Gamma
 
+CLTV is the monetary value that a customer will bring to the company during the relationship and communication with a company.
+
+CLTV prediction: <br>
+Probabilistic lifetime value estimation with time projection <br>
+CLTV = Expected sales x Expected Average Profit <br>
+CLTV = BG-NBD Model X Gamma Gamma <br>
+
 #### Business Problem:
 
 The UK-based retail company wants to set a roadmap for its sales and marketing activities. In order for the company to make a medium-long-term plan, it is necessary to estimate the potential value that existing customers will provide to the company in the future.
